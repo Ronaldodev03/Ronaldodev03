@@ -110,7 +110,7 @@ a problem.
 - 🌍 Learning languages
 - 🎵 Music (listening and creating)
 
-## 📫 Contacto
+## 📫 Contact
 <a href="https://www.linkedin.com/in/ronaldosalazar-dev/">
   <img
     align="left"
