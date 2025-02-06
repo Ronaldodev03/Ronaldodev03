@@ -11,6 +11,8 @@ working with React and the MERN stack and Laravel. My favorite part of programmi
 problem-solving aspect. I love the feeling of finally figuring out a solution to
 a problem.
 
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
