@@ -65,6 +65,7 @@ a problem.
       width="40"
       height="40"
     />
+  </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -73,6 +74,13 @@ a problem.
         height="40"
       />
     </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://static-00.iconduck.com/assets.00/laravel-icon-248x256-6tduph6g.png"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
