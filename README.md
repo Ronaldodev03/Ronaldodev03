@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi here , I'm Ronaldo</b
+  <b>Hi there , I'm Ronaldo</b
   ><img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="35"
@@ -7,7 +7,7 @@
 </h1>
 
 Hi, I’m Ronaldo, a passionate full-stack developer with 2 years of experience
-working with React and the MERN stack. My favorite part of programming is the
+working with React and the MERN stack and Laravel. My favorite part of programming is the
 problem-solving aspect. I love the feeling of finally figuring out a solution to
 a problem.
 
